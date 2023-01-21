@@ -2,7 +2,7 @@
 ## About
 - Created a web application for TOEFL Speaking practice.
 - Developed a Google Sheet-based database API by Google Apps Script.
-- Supported randomly picking questions and saved the note for specific questions.
+- Supported randomly picking questions and saving notes for specific questions.
 - url: https://nyy28477590.github.io/toefl_practice_web/
 
 ## Web demo
