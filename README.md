@@ -49,5 +49,9 @@ function updateSheet(data){
   
   }
 ```
+
 ## API Demo: doPost()
 ![API Demo](./images/api.png)
+
+## Database Demo
+![Database Demo](./images/db.png)
